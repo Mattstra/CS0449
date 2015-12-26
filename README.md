@@ -1,2 +1,2 @@
 # CS/COE 0449
-Assignments from Systems Software at the University of Pittsburgh
+Assignments from Introduction to Systems Software at the University of Pittsburgh
